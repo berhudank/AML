@@ -1,0 +1,4 @@
+raw-data-reduced-min-2024/
+.venv/
+weather_data/
+*.csv
